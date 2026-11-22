@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "pl.loseq.nemos.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["MinecraftClientAccessor"],
+  "injectors": { "defaultRequire": 1 }
+}
